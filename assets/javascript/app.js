@@ -56,45 +56,45 @@ $(document).ready(function() {
 $(document).ready(function(){
   
     var questions = [{
-      question: "Who is the NBA's all-time assist leader?",
-      choices: ['Jason Kidd', 'Magic Johnson', 'John Stockton', 'Steve Nash'],
+      question: "Where was Malcom X killed ?",
+      choices: ['His house', 'State prison', 'Audubon Ballroom, Manhattan'],
       correctAnswer: 2
     }, {
-      question: "Who won the 2000 Slam Dunk Contest?",
-      choices: ["Steve Francis", "Tracy McGrady", "Larry Hughes", "Vince Carter"],
-      correctAnswer: 3
-    }, {
-      question: "Who is the current NBA Commissioner",
-      choices: ['David Stern', 'Adam Silver', 'Red Auerbach', 'Jerry West'],
+      question: "Jackie Robinson was the first African American to do what ?",
+      choices: ['Play major league football', 'Play major league baseball', 'Play major league soccer'],
       correctAnswer: 1
     }, {
-      question: "Who is the NBA's all-time scoring leader?",
-      choices: ["Kareem Abdul-Jabbar", "Kobe Bryant", "Michael Jordan", "Wilt Chamberlain"],
+      question: "Arthur Ashe was famous for what ?",
+      choices: ['Tennis', 'Track', 'Rugby'],
       correctAnswer: 0
     }, {
-      question: "Which NBA franchise has won the most Championships?",
-      choices: ["Boston Celtics", "Los Angeles Lakers", "Philadelphia 76ers", "Chicago Bulls"],
-      correctAnswer: 0
-    }, {
-      question: "Who is the shortest person to play in the NBA?",
-      choices: ["Earl Boykins", "Dana Barros", "Spud Webb", "Mugsy Bogues"],
-      correctAnswer: 3
-    }, {
-      question: "Who has the highest career free throw percentage of all-time?",
-      choices: ["Rick Barry", "Steve Nash", "Steph Curry", "Reggie Miller"],
+      question: "Who was the American singer, actress and civil rights leader who got her start singing at the Cotton Club in New York City at age 16 ?",
+      choices: ['Dionee Warwick', 'Lena Horne', 'Justin Beiber'],
       correctAnswer: 1
     }, {
-      question: "In feet', how far is the NBA free throw line from the basket?",
-      choices: [18, 22, 15, 12],
+      question: "5. Who holds the record of 100 points scored in a single NBA game ?",
+      choices: ['Lebron James', 'Wilt Chamberlin', 'Steph Curry'],
+      correctAnswer: 1
+    }, {
+      question: "What service did the first African American female millionaire, Madame C.J. Walker, provide ?",
+      choices: ['Food distribution', 'Investment advice', 'Beauty products'],
       correctAnswer: 2
     }, {
-      question: "Who owns the Charlotte Hornets?",
-      choices: ['Michael Jordan', 'Mark Cuban', 'Baron Davis', 'Larry Johnson'],
+      question: "In what year did Harriet Tubman escape slavery ?",
+      choices: ['1849', '1991', '1797'],
       correctAnswer: 0
     }, {
-      question: "Who is the tallest person to play in the NBA?",
-      choices: ['Manute Bol', "Gheorghe Muresan", 'Shawn Bradley', 'Yao Ming'],
+      question: "Who was the first African American Chief Justice of the Supreme Court ?",
+      choices: ['Clarence Thomas', 'Thurgood Marshall', 'Hugo Black'],
       correctAnswer: 1
+    }, {
+      question: "What was the first Black owned company to be traded on the New York Stock Exchange ?",
+      choices: ['Johnson and Johnson', 'Jumpman', 'BET: Black Entertainment Televison'],
+      correctAnswer: 2
+    }, {
+      question: "Who was known as the father of Black History ? ",
+      choices: ['Martin Luther King Jr', "Malcom X", 'Carter G. Woodson'],
+      correctAnswer: 2
     }
     ];
     

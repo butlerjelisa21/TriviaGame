@@ -4,17 +4,17 @@
 
 body {
 	font-family: 'Fjalla One', Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	background: url(https://media.giphy.com/media/l0HlKZAwlfwzbic2k/giphy.gif);
+	background: url(https://media.giphy.com/media/OpsfQone2H2Ok/giphy.gif);
 }
 
 .content {
 	float:left;
 	margin-left:25px;
-	background-color: #eee;
+	background-color: blanchedalmond;
 	width: 75%;
 	max-width: 725px;
 	min-height: 170px;
-	box-shadow: 5px 5px 9px #333;
+	box-shadow: 5px 5px 9px red;
 }
 
 #quiz {
@@ -46,7 +46,7 @@ button {
 
 #timer {
 	font-size:90px;
-	color:white;
+	color: blanchedalmond;
 	float:right;
 	margin-right:110px;
 }
